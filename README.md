@@ -1,0 +1,2 @@
+# blog
+Empiric Wealth - Blog
